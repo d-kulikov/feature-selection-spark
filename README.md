@@ -1,6 +1,6 @@
-# feature-selection-spark
-A function for selecting the most important uncorrelated features with Pyspark and demonstration of the use
+## Predictive Model for Fraud Detection
+This project is an example of development of a classification model for fraud detection. It is implemented using Apache Spark, namely, its Python API (pyspark).
 
-The notebook dataset-generation.ipynb explains the true dependancies in the dataset.
+Modeling is performed on a small dataset for demonstration purposes. However, the used data is real. Within the project a predictive model is created, then its performance is assessed, and financial impact is evaluated.
 
-The notebook feature-selection.ipynb contains the function itself, demonstrates usage and compares to some other feature selection methods.
+The project does not contain extensive exploratary analysis, and most of the variables are hidden because this is commercial information.
